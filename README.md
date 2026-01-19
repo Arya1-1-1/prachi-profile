@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
+<img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/main/readme/hero.svg" alt="Hero image">
 
 I’m PrachiArya — a first-year engineering student passionate about learning new technologies and building cool things. ✨  
 Currently exploring machine learning, GitHub workflows, and Python programming. I’ve already completed C language and love diving into hands-on projects.
@@ -13,7 +13,7 @@ Here's a list of things I currently keep myself busy with:
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
+  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i></p>
 
   - I love documenting my design process and sharing visuals  
   - My go-to jam when coding: musicals. Non-stop. ⭐️  
@@ -28,10 +28,10 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/PrachiArya_" alt="Twitter"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/PrachiArya/" alt="Linkedin"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:PrachiArya@example.com" alt="Contact me"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://prachiarya.github.io" alt="My site"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/PrachiArya_" alt="Twitter"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/main/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/PrachiArya/" alt="Linkedin"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/main/readme/linkedin-fill.svg"></a>
+    <a href="mailto:PrachiArya@example.com" alt="Contact me"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/main/readme/mail-fill.svg"></a>
+    <a href="https://prachiarya.github.io" alt="My site"><img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/main/readme/external-link-line.svg"></a>
   </p>
 
   <p align="center">
@@ -41,7 +41,7 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/PrachiArya/PrachiArya/main/readme/bottom.svg" alt="bottom">
 
 -----
 
