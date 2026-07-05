@@ -1,87 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:2563eb&height=120&section=header&text=Prachi%20Arya&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-### Mechanical Engineering × Machine Learning × Product Design
-**First Year B.Tech — IIITDM Kurnool**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-arya-125me0005)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arya1-1-1)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:2563eb&height=150&section=header&text=Hey%2C%20I%27m%20Prachi%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<br/>
 
-### About me
+```python
+>>> from iiitdm_kurnool import PrachiArya
 
-I'm a first-year Mechanical Engineering student who builds at the intersection of hardware and AI. I spend my time designing ergonomic products, training ML models on satellite data, and writing Python that actually solves problems farmers face every day.
-
-Currently ML Lead at **Team ASPIRE** — competing at national level hackathons while most people are still figuring out college. Not waiting for an internship to build a portfolio.
-
----
-
-### What I'm building right now
-
-| Project | What it is | Stack |
-|--------|-----------|-------|
-| **AgriSense AI** | Crop advisory agent for Haryana farmers using satellite NDVI/NDWI data | Python · Flask · Fireworks AI · AMD GPU · Docker |
-| **Bag2Board** | Ergonomic desk bag that converts into a workstation — Grand Finale, Sanrachna 2026, Bharat Mandapam | SolidWorks · Neem Plywood · Product Design |
-| **BAJA SAE** | Suspension & upright CAD for college ATV team | SolidWorks · CadQuery · STEP |
+prachi = PrachiArya(
+    degree     = "B.Tech Mechanical Engineering · Year 1",
+    interests  = ["machine learning", "product design", "CAD"],
+    currently  = "building AgriSense AI 🌾 + Bag2Board 🎒",
+    learning   = ["Flask", "Docker", "scikit-learn"],
+    fun_fact   = "I design things that exist in both the physical and digital world"
+)
+```
 
 ---
 
-### Hackathons & Competitions
-
-🏆 **Sanrachna 2026 Grand Finalist** — Top teams nationally, Bharat Mandapam, New Delhi (July 2026)
-
-🤖 **AMD Developer Hackathon ACT II** — Building AgriSense AI on AMD GPUs (July 2026)
-
----
-
-### Skills
-
-**Languages & Tools**
+### 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
-
-**ML & Data**
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
 
 ---
 
-### GitHub Stats
+### 📌 Projects
+
+| Project | About |
+|--------|-------|
+| 🌾 **AgriSense AI** | Crop advisory agent for farmers — Sentinel-2 NDVI/NDWI + Fireworks AI API on AMD GPUs |
+| 🎒 **Bag2Board** | Ergonomic bag that converts into a desk — neem plywood + hinge mechanism |
+| 🚗 **BAJA SAE** | Suspension & upright CAD — SolidWorks + CadQuery |
+| 🌱 **ML Learning Log** | Daily ML practice — Random Forest, pandas, sklearn on crop datasets |
+
+---
+
+### 📊 GitHub stats
 
 <div align="center">
 
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya1-1-1&show_icons=true&theme=default&hide_border=true&title_color=16a34a&icon_color=2563eb&text_color=1f2937&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya1-1-1&layout=compact&hide_border=true&title_color=16a34a&text_color=1f2937&bg_color=ffffff)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Arya1-1-1&show_icons=true&theme=tokyonight&hide_border=true&title_color=16a34a&icon_color=2563eb&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya1-1-1&layout=compact&theme=tokyonight&hide_border=true&title_color=16a34a&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-### What drives me
-
-> Building things that matter — not just to pass a subject, but to solve real problems. A non-IIT student who competes at national level, learns in public, and ships working code.
-
----
+### 🤝 Let's connect
 
 <div align="center">
 
-*First year. Already building.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-arya-8a3972383/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arya1-1-1)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:16a34a&height=80&section=footer" width="100%"/>
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:16a34a&height=100&section=footer" width="100%"/>
 </div>
