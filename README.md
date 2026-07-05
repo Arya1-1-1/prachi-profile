@@ -1,75 +1,87 @@
-## Hi there, I'm PrachiArya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:2563eb&height=120&section=header&text=Prachi%20Arya&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-arya-8a3972383?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+### Mechanical Engineering × Machine Learning × Product Design
+**First Year B.Tech — IIITDM Kurnool**
 
-### 👨🏻‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-arya-125me0005)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arya1-1-1)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-- 🛠️ I'm a Mechanical Engineering student with a passion for **design, prototyping, and problem-solving**  
-- 🧑‍🎓 Currently in my **first year** at university, diving deep into **C, Python, and Machine Learning**  
-- 🧠 Learning how to build smarter systems and **human-centered engineering solutions**  
-- 🧑‍💻 Exploring **GitHub workflows**, customizing my profile, and documenting my projects with **Markdown**  
-- 🎨 I love combining **technical rigor** with **creative storytelling** through visuals and diagrams  
-
-
+</div>
 
 ---
 
+### About me
 
+I'm a first-year Mechanical Engineering student who builds at the intersection of hardware and AI. I spend my time designing ergonomic products, training ML models on satellite data, and writing Python that actually solves problems farmers face every day.
 
-### 🛠 Languages and Tools
-
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
-
-[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
-
-[![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;][c++]
-
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
-
-![MS Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
-
-[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
-
-
-
-
-
-
-  
-
-
+Currently ML Lead at **Team ASPIRE** — competing at national level hackathons while most people are still figuring out college. Not waiting for an internship to build a portfolio.
 
 ---
 
-### 🏄follow me on
+### What I'm building right now
 
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Arya1-1-1))
+| Project | What it is | Stack |
+|--------|-----------|-------|
+| **AgriSense AI** | Crop advisory agent for Haryana farmers using satellite NDVI/NDWI data | Python · Flask · Fireworks AI · AMD GPU · Docker |
+| **Bag2Board** | Ergonomic desk bag that converts into a workstation — Grand Finale, Sanrachna 2026, Bharat Mandapam | SolidWorks · Neem Plywood · Product Design |
+| **BAJA SAE** | Suspension & upright CAD for college ATV team | SolidWorks · CadQuery · STEP |
 
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
-  </br>
-      <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
-</p>
+---
 
-[github]: https://github.com/manojuppala
+### Hackathons & Competitions
 
-[linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
+🏆 **Sanrachna 2026 Grand Finalist** — Top teams nationally, Bharat Mandapam, New Delhi (July 2026)
 
-[vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/doc/
+🤖 **AMD Developer Hackathon ACT II** — Building AgriSense AI on AMD GPUs (July 2026)
 
-[git]: https://git-scm.com/doc
-[github]: https://github.com/
+---
 
-[c]: https://devdocs.io/c/
+### Skills
 
+**Languages & Tools**
 
------
-Credits: [Prachi Arya](https://github.com/Arya1-1-1)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
 
-Last Edited on: 05/12/2020
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya1-1-1&show_icons=true&theme=default&hide_border=true&title_color=16a34a&icon_color=2563eb&text_color=1f2937&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya1-1-1&layout=compact&hide_border=true&title_color=16a34a&text_color=1f2937&bg_color=ffffff)
+
+</div>
+
+---
+
+### What drives me
+
+> Building things that matter — not just to pass a subject, but to solve real problems. A non-IIT student who competes at national level, learns in public, and ships working code.
+
+---
+
+<div align="center">
+
+*First year. Already building.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:16a34a&height=80&section=footer" width="100%"/>
+
+</div>
